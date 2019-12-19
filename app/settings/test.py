@@ -4,10 +4,10 @@ DATABASES = {
 
   'default': {
     'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'blog_app_test',
-    'USER': 'blog_app',
+    'NAME': 'Sherzodbek$blog_app_test',
+    'USER': 'Sherzodbek',
     'PASSWORD': 'password',
-    'HOST': 'localhost',
+    'HOST': 'Sherzodbek.mysql.pythonanywhere-services.com',
     'PORT': '',
   }
 
